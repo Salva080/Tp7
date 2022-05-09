@@ -164,7 +164,7 @@ public class AltaAlumnos extends javax.swing.JInternalFrame {
         
         Alumno a1 = new Alumno(leg,ap,nom);
         alumnos.add(a1);
-        JOptionPane.showMessageDialog(this, "Alumno Inscripto exitosamente");
+        JOptionPane.showMessageDialog(this, "Alumno Inscripto");
     }//GEN-LAST:event_jButtonGuardarActionPerformed
 
     private void jButtonNuevoActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButtonNuevoActionPerformed
